@@ -44,7 +44,7 @@ investpy.plotar_dados_acao(df)
 ```
 
 Resultado:
-![resultado calculo retorno diario](exemplo.png)
+![resultado calculo retorno diario](https://raw.githubusercontent.com/tadrianonet/investimentpy/main/exemplo.png)
 
 
 ## Contribuindo
